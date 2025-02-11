@@ -22,7 +22,7 @@ const props = defineProps({
         <header class="header">
             <div class="contact">
                 <i class="fas fa-phone-alt"></i>
-                +639453467938
+                +63945346793812
             </div>
         </header>
 
